@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+ platform :ios, '14.4'
+
+#target 'Capstone_Sell_house' do
+  # Comment the next line if you don't want to use dynamic frameworks
+abstract_target 'AnyTargets' do # Anything that doesn't duplicate the actual target name
+
+  #use_frameworks!
+
+  # Pods for Capstone_Sell_house
+	pod 'Firebase/Core', :modular_headers => true
+	pod 'Firebase/Auth', :modular_headers => true
+	pod 'Firebase/Database'
+  pod 'Firebase/Storage'
+  pod 'Firebase/Messaging', :modular_headers => true
+  pod 'Firebase/Firestore'
+  pod 'FirebaseUI', :modular_headers => true 
+
+
+  target 'Capstone_Sell_house' do
+    end
+  
+  target 'Capstone_Sell_houseTests' do
+    #inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'Capstone_Sell_houseUITests' do
+    # Pods for testing
+  end
+
+end

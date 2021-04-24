@@ -1,0 +1,18 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "a0a1c00718d676aca91d393af674b112"
+build_time: [1617777364, 130541000]
+inputs:
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/WishList.swift": !dirty [1617234996, 245946648]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/BuyerViewController.swift": !dirty [1617748022, 278241965]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/SellViewController.swift": !dirty [1617731677, 916109573]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/WithResults.swift": !dirty [1617551392, 523749497]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/UserViewController.swift": !dirty [1617051552, 846592220]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/PropertiesList.swift": !dirty [1617740478, 591701728]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/ProfileViewController.swift": !dirty [1617626809, 401122349]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/LoginViewController.swift": !dirty [1617734092, 201098526]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/AppDelegate.swift": !dirty [1617774947, 626473104]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/ViewController.swift": !dirty [1616726055, 791533193]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/CountrySelector.swift": !dirty [1617032068, 899637202]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/WithoutResults.swift": !dirty [1617553367, 383844245]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/SceneDelegate.swift": !dirty [1616606900, 712239050]
+  "/Users/syedrabiyama/Documents/Capstone_Sell_house/Capstone_Sell_house/UserList.swift": !dirty [1617035137, 93405608]

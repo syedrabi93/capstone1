@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1EA9648B-FB65-4DBC-9FF7-E2FDF23C47D7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1EA9648B-FB65-4DBC-9FF7-E2FDF23C47D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639469487.86582899</real>
+			<key>timeStoppedRecording</key>
+			<real>639469488.42048299</real>
+			<key>title</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>1EA9648B-FB65-4DBC-9FF7-E2FDF23C47D7</string>
+		</dict>
+		<key>65D37D95-F8FE-47DB-842A-0B8FD46C42CF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>65D37D95-F8FE-47DB-842A-0B8FD46C42CF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639469673.36924005</real>
+			<key>timeStoppedRecording</key>
+			<real>639469673.55459201</real>
+			<key>title</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>65D37D95-F8FE-47DB-842A-0B8FD46C42CF</string>
+		</dict>
+		<key>8B2A0DB8-C499-4DCF-ADEF-50F725A53CD1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B2A0DB8-C499-4DCF-ADEF-50F725A53CD1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639469899.06995404</real>
+			<key>timeStoppedRecording</key>
+			<real>639469908.02462697</real>
+			<key>title</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>8B2A0DB8-C499-4DCF-ADEF-50F725A53CD1</string>
+		</dict>
+		<key>99AD309C-3C08-47A4-AFD1-8694F273DBD5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99AD309C-3C08-47A4-AFD1-8694F273DBD5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639468229.43510497</real>
+			<key>timeStoppedRecording</key>
+			<real>639468229.60331595</real>
+			<key>title</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>99AD309C-3C08-47A4-AFD1-8694F273DBD5</string>
+		</dict>
+		<key>AA78B59E-05C2-408B-9754-79A628697349</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AA78B59E-05C2-408B-9754-79A628697349.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639469477.29606903</real>
+			<key>timeStoppedRecording</key>
+			<real>639469477.59715199</real>
+			<key>title</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>AA78B59E-05C2-408B-9754-79A628697349</string>
+		</dict>
+		<key>B2337AD8-1EBF-4CAE-B350-B64BE8CC83B1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2337AD8-1EBF-4CAE-B350-B64BE8CC83B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639469484.81830704</real>
+			<key>timeStoppedRecording</key>
+			<real>639469484.90168405</real>
+			<key>title</key>
+			<string>Clean Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>B2337AD8-1EBF-4CAE-B350-B64BE8CC83B1</string>
+		</dict>
+		<key>C3E568A4-9C74-4A92-A370-AE69783F12F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C3E568A4-9C74-4A92-A370-AE69783F12F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639470165.48595703</real>
+			<key>timeStoppedRecording</key>
+			<real>639470165.58354294</real>
+			<key>title</key>
+			<string>Build Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>C3E568A4-9C74-4A92-A370-AE69783F12F5</string>
+		</dict>
+		<key>F4278BCC-6EBF-400B-A427-382144B431ED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F4278BCC-6EBF-400B-A427-382144B431ED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Capstone_Sell_house project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Capstone_Sell_house</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean Capstone_Sell_house</string>
+			<key>timeStartedRecording</key>
+			<real>639469897.77809</real>
+			<key>timeStoppedRecording</key>
+			<real>639469897.83911395</real>
+			<key>title</key>
+			<string>Clean Capstone_Sell_house</string>
+			<key>uniqueIdentifier</key>
+			<string>F4278BCC-6EBF-400B-A427-382144B431ED</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

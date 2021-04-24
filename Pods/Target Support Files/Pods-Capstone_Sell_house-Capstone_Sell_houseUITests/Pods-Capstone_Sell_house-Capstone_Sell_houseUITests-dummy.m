@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_Capstone_Sell_house_Capstone_Sell_houseUITests : NSObject
+@end
+@implementation PodsDummy_Pods_Capstone_Sell_house_Capstone_Sell_houseUITests
+@end

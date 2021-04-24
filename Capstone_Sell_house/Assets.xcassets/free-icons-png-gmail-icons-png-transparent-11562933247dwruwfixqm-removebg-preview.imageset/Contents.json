@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "free-icons-png-gmail-icons-png-transparent-11562933247dwruwfixqm-removebg-preview.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
